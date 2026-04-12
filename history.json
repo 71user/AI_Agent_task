@@ -14,5 +14,45 @@
   {
     "role": "assistant",
     "content": "1 USD = 3.0439 ILS"
+  },
+  {
+    "role": "user",
+    "content": "Tel Aviv"
+  },
+  {
+    "role": "assistant",
+    "content": "Tel Aviv: 20.2°C, Cloudy, wind 13.5 km/h"
+  },
+  {
+    "role": "user",
+    "content": "USD"
+  },
+  {
+    "role": "assistant",
+    "content": "1 USD = 3.0439 ILS"
+  },
+  {
+    "role": "user",
+    "content": "13+25"
+  },
+  {
+    "role": "assistant",
+    "content": "38"
+  },
+  {
+    "role": "user",
+    "content": "USD"
+  },
+  {
+    "role": "assistant",
+    "content": "1 USD = 3.0439 ILS"
+  },
+  {
+    "role": "user",
+    "content": "Haifa"
+  },
+  {
+    "role": "assistant",
+    "content": "Haifa: 19.2°C, Cloudy, wind 21.7 km/h"
   }
 ]

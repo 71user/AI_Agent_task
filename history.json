@@ -1,11 +1,11 @@
 [
   {
     "role": "user",
-    "content": "Hi ! What the weather in Tel Aviv ?"
+    "content": "Hi ! "
   },
   {
     "role": "assistant",
-    "content": "Tel Aviv: 20.6°C, Cloudy, wind 13.8 km/h"
+    "content": "Hello! How can I assist you today?"
   },
   {
     "role": "user",
@@ -13,46 +13,30 @@
   },
   {
     "role": "assistant",
-    "content": "1 USD = 3.0439 ILS"
+    "content": "1 USD = 3.0483 ILS"
   },
   {
     "role": "user",
-    "content": "Tel Aviv"
+    "content": "EUR"
   },
   {
     "role": "assistant",
-    "content": "Tel Aviv: 20.2°C, Cloudy, wind 13.5 km/h"
+    "content": "1 EUR = 3.5778 ILS"
   },
   {
     "role": "user",
-    "content": "USD"
+    "content": " כמה Euro אפשר לקנות ב־100 דולר"
   },
   {
     "role": "assistant",
-    "content": "1 USD = 3.0439 ILS"
+    "content": "100 USD = 85.21 EUR"
   },
   {
     "role": "user",
-    "content": "13+25"
+    "content": " פי כמה מזג האוויר חם בדובאי מאשר בשטוקהולם"
   },
   {
     "role": "assistant",
-    "content": "38"
-  },
-  {
-    "role": "user",
-    "content": "USD"
-  },
-  {
-    "role": "assistant",
-    "content": "1 USD = 3.0439 ILS"
-  },
-  {
-    "role": "user",
-    "content": "Haifa"
-  },
-  {
-    "role": "assistant",
-    "content": "Haifa: 19.2°C, Cloudy, wind 21.7 km/h"
+    "content": "Dubai is about 3.2 times hotter than Stockholm"
   }
 ]

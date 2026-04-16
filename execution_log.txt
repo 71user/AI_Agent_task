@@ -1,0 +1,15 @@
+You: Hi ! 
+Bot: Hello! How can I assist you today?
+
+You: USD
+Bot: 1 USD = 3.0483 ILS
+
+You: EUR
+Bot: 1 EUR = 3.5778 ILS
+
+You:  כמה Euro אפשר לקנות ב־100 דולר
+Bot: 100 USD = 85.21 EUR
+
+You:  פי כמה מזג האוויר חם בדובאי מאשר בשטוקהולם
+Bot: Dubai is about 3.2 times hotter than Stockholm
+
